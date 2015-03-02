@@ -1,0 +1,13 @@
+Austin is making another edit to an existing line right over here.
+This should cause a manually-resolvable conflict.
+This is a test change by Colin.
+
+
+<<<<<<< HEAD
+Change here, change there.
+
+Changes changes everywhere.
+=======
+This change was made on my (ColinBranch) branch!
+>>>>>>> Colin_B
+
