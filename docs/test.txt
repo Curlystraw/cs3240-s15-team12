@@ -1,7 +1,8 @@
-Austin is making an edit to an existing line here. 
+Austin is making another edit to an existing line right over here. 
 This should cause a manually-resolvable conflict. 
 This is a test change by Colin.
 
-Austin making lots of changes. 
 
 Change here, change there. 
+
+Changes changes everywhere. 
